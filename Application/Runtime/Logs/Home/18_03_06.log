@@ -1,0 +1,1389 @@
+[ 2018-03-06T11:03:22+08:00 ] 192.168.1.123 /Admin/get/id/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-03-06T11:03:42+08:00 ] 192.168.1.123 /Admin/getMsg/id/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:10:16+08:00 ] 192.168.1.123 /Admin/getMsg/id/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:10:23+08:00 ] 192.168.1.123 /Admin/getMsg/id/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:11:44+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T11:11:55+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T11:12:54+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:15:03+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0050s ]
+NOTIC: [2] json_encode() expects at least 1 parameter, 0 given D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:15:36+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0020s ]
+NOTIC: [2] json_encode() expects at least 1 parameter, 0 given D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:16:26+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:16:53+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:17:19+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:18:48+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:19:13+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:20:01+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:20:42+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: data D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: data D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:21:00+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: data D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: data D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:21:02+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: data D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: data D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:21:03+08:00 ] 192.168.1.123 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:21:15+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T11:21:23+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:21:49+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:22:03+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:23:05+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:23:59+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:25:41+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:28:14+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:29:23+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:30:23+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:32:40+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`id`,`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('16','0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:33:48+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+ERR: 1062:Duplicate entry '16' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `lic_burnk_task` (`id`,`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('16','0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add')
+ERR: 1062:Duplicate entry '16' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `lic_burnk_task` (`id`,`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('16','0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add')
+
+[ 2018-03-06T11:34:31+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T11:43:07+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T11:44:36+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: type D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 36 行.
+
+[ 2018-03-06T11:44:49+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0060s ]
+
+[ 2018-03-06T11:45:13+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `ceshibiao` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0060s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_order` [ RunTime:0.0040s ]
+SQL: INSERT INTO `lic_order` (`order_sn`,`group_id`,`user_id`,`yk_bguid`,`dy_id`,`nickname`,`mobile`,`pay_status`,`order_status`,`pay_type`,`pay_time`,`totalprice`,`lirunprice`,`suppliertotalprice`,`order_amount`,`createtime`,`is_valet`,`shipping_type`,`shipping_address`,`province`,`city`,`district`,`pay_username`,`ls_sn`,`yk_member_id`,`shipping_status`,`shipping_time`,`pay_sn`,`is_del`,`order_coupon_price`,`nicknamemd5`,`soid`,`is_claim`,`order_type`,`shippingmoney`,`shipping_name`,`shipping_no`,`shipping_shtime`,`is_view`,`click`,`total_taxprice`,`ip`,`bguid`) VALUES ('p1803061011452328','1087','639','0f96613235062963ccde717b18f97592','277','123123','13212313211','0','0','0',NULL,'2170.00','56.00',NULL,'2338.00','1520305905','0','1','123123123','2','52','500',NULL,NULL,'639','0',NULL,NULL,'0',NULL,'4297f44b13955235245b2497399d7a93','0','0','2','0.00',NULL,NULL,NULL,'0','0','168.00','192.168.1.111','dfb2cb066c5d3ba0d49dd8eff3ad1d5e') [ RunTime:0.0300s ]
+SQL: SHOW COLUMNS FROM `lic_order_goods` [ RunTime:0.0040s ]
+SQL: INSERT INTO `lic_order_goods` (`id`,`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('2311','474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00') [ RunTime:0.0180s ]
+SQL: INSERT INTO `lic_order_goods` (`id`,`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('2312','474','p1803061011452328','STUD 100 喷剂',NULL,'70.00','4.00','180.00',NULL,NULL,'585','3','/Uploads/goods_thumb/20171122/5a1573eebd130.jpg',NULL,'12g/支','3','1520305905','0','12.00') [ RunTime:0.0260s ]
+SQL: INSERT INTO `lic_order_goods` (`id`,`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('2313','474','p1803061011452328','YANHEE 香蕉脚裂膏',NULL,'80.00','4.00','150.00',NULL,NULL,'583','10','/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg',NULL,'6瓶/盒','4','1520305905','0','12.00') [ RunTime:0.0240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T12:35:34+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_order` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_order` (`order_sn`,`group_id`,`user_id`,`yk_bguid`,`dy_id`,`nickname`,`mobile`,`pay_status`,`order_status`,`pay_type`,`pay_time`,`totalprice`,`lirunprice`,`suppliertotalprice`,`order_amount`,`createtime`,`is_valet`,`shipping_type`,`shipping_address`,`province`,`city`,`district`,`pay_username`,`ls_sn`,`yk_member_id`,`shipping_status`,`shipping_time`,`pay_sn`,`is_del`,`order_coupon_price`,`nicknamemd5`,`soid`,`is_claim`,`order_type`,`shippingmoney`,`shipping_name`,`shipping_no`,`shipping_shtime`,`is_view`,`click`,`total_taxprice`,`ip`,`bguid`) VALUES ('p1803061011452328','1087','639','0f96613235062963ccde717b18f97592','277','123123','13212313211','0','0','0',NULL,'2170.00','56.00',NULL,'2338.00','1520305905','0','1','123123123','2','52','500',NULL,NULL,'639','0',NULL,NULL,'0',NULL,'4297f44b13955235245b2497399d7a93','0','0','2','0.00',NULL,NULL,NULL,'0','0','168.00','192.168.1.111','dfb2cb066c5d3ba0d49dd8eff3ad1d5e') [ RunTime:0.1220s ]
+SQL: SHOW COLUMNS FROM `lic_order_goods` [ RunTime:0.0010s ]
+ERR: 1062:Duplicate entry '2311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `lic_order_goods` (`id`,`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('2311','474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00')
+ERR: 1062:Duplicate entry '2311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `lic_order_goods` (`id`,`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('2311','474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00')
+
+[ 2018-03-06T12:39:18+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_order` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_order` (`order_sn`,`group_id`,`user_id`,`yk_bguid`,`dy_id`,`nickname`,`mobile`,`pay_status`,`order_status`,`pay_type`,`pay_time`,`totalprice`,`lirunprice`,`suppliertotalprice`,`order_amount`,`createtime`,`is_valet`,`shipping_type`,`shipping_address`,`province`,`city`,`district`,`pay_username`,`ls_sn`,`yk_member_id`,`shipping_status`,`shipping_time`,`pay_sn`,`is_del`,`order_coupon_price`,`nicknamemd5`,`soid`,`is_claim`,`order_type`,`shippingmoney`,`shipping_name`,`shipping_no`,`shipping_shtime`,`is_view`,`click`,`total_taxprice`,`ip`,`bguid`) VALUES ('p1803061011452328','1087','639','0f96613235062963ccde717b18f97592','277','123123','13212313211','0','0','0',NULL,'2170.00','56.00',NULL,'2338.00','1520305905','0','1','123123123','2','52','500',NULL,NULL,'639','0',NULL,NULL,'0',NULL,'4297f44b13955235245b2497399d7a93','0','0','2','0.00',NULL,NULL,NULL,'0','0','168.00','192.168.1.111','dfb2cb066c5d3ba0d49dd8eff3ad1d5e') [ RunTime:0.0310s ]
+SQL: SHOW COLUMNS FROM `lic_order_goods` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00') [ RunTime:0.0210s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','STUD 100 喷剂',NULL,'70.00','4.00','180.00',NULL,NULL,'585','3','/Uploads/goods_thumb/20171122/5a1573eebd130.jpg',NULL,'12g/支','3','1520305905','0','12.00') [ RunTime:0.0270s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','YANHEE 香蕉脚裂膏',NULL,'80.00','4.00','150.00',NULL,NULL,'583','10','/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg',NULL,'6瓶/盒','4','1520305905','0','12.00') [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T13:14:45+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0030s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_order` [ RunTime:0.0030s ]
+SQL: INSERT INTO `lic_order` (`order_sn`,`group_id`,`user_id`,`yk_bguid`,`dy_id`,`nickname`,`mobile`,`pay_status`,`order_status`,`pay_type`,`pay_time`,`totalprice`,`lirunprice`,`suppliertotalprice`,`order_amount`,`createtime`,`is_valet`,`shipping_type`,`shipping_address`,`province`,`city`,`district`,`pay_username`,`ls_sn`,`yk_member_id`,`shipping_status`,`shipping_time`,`pay_sn`,`is_del`,`order_coupon_price`,`nicknamemd5`,`soid`,`is_claim`,`order_type`,`shippingmoney`,`shipping_name`,`shipping_no`,`shipping_shtime`,`is_view`,`click`,`total_taxprice`,`ip`,`bguid`) VALUES ('p1803061011452328','1087','639','0f96613235062963ccde717b18f97592','277','123123','13212313211','0','0','0',NULL,'2170.00','56.00',NULL,'2338.00','1520305905','0','1','123123123','2','52','500',NULL,NULL,'639','0',NULL,NULL,'0',NULL,'4297f44b13955235245b2497399d7a93','0','0','2','0.00',NULL,NULL,NULL,'0','0','168.00','192.168.1.111','dfb2cb066c5d3ba0d49dd8eff3ad1d5e') [ RunTime:0.0390s ]
+SQL: SHOW COLUMNS FROM `lic_order_goods` [ RunTime:0.0030s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00') [ RunTime:0.0180s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','STUD 100 喷剂',NULL,'70.00','4.00','180.00',NULL,NULL,'585','3','/Uploads/goods_thumb/20171122/5a1573eebd130.jpg',NULL,'12g/支','3','1520305905','0','12.00') [ RunTime:0.0260s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','YANHEE 香蕉脚裂膏',NULL,'80.00','4.00','150.00',NULL,NULL,'583','10','/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg',NULL,'6瓶/盒','4','1520305905','0','12.00') [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T13:14:47+08:00 ] 192.168.1.123 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T13:22:06+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: data D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: type_table D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 36 行.
+NOTIC: [8] Undefined index: type_table D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 59 行.
+NOTIC: [8] Undefined index: type_table D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 66 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T13:23:04+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T13:23:20+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T13:23:51+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T13:24:20+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T13:24:51+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T13:25:25+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T13:25:41+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0050s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_order` [ RunTime:0.0040s ]
+SQL: INSERT INTO `lic_order` (`order_sn`,`group_id`,`user_id`,`yk_bguid`,`dy_id`,`nickname`,`mobile`,`pay_status`,`order_status`,`pay_type`,`pay_time`,`totalprice`,`lirunprice`,`suppliertotalprice`,`order_amount`,`createtime`,`is_valet`,`shipping_type`,`shipping_address`,`province`,`city`,`district`,`pay_username`,`ls_sn`,`yk_member_id`,`shipping_status`,`shipping_time`,`pay_sn`,`is_del`,`order_coupon_price`,`nicknamemd5`,`soid`,`is_claim`,`order_type`,`shippingmoney`,`shipping_name`,`shipping_no`,`shipping_shtime`,`is_view`,`click`,`total_taxprice`,`ip`,`bguid`) VALUES ('p1803061011452328','1087','639','0f96613235062963ccde717b18f97592','277','123123','13212313211','0','0','0',NULL,'2170.00','56.00',NULL,'2338.00','1520305905','0','1','123123123','2','52','500',NULL,NULL,'639','0',NULL,NULL,'0',NULL,'4297f44b13955235245b2497399d7a93','0','0','2','0.00',NULL,NULL,NULL,'0','0','168.00','192.168.1.111','dfb2cb066c5d3ba0d49dd8eff3ad1d5e') [ RunTime:0.0290s ]
+SQL: SHOW COLUMNS FROM `lic_order_goods` [ RunTime:0.0050s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00') [ RunTime:0.0180s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','STUD 100 喷剂',NULL,'70.00','4.00','180.00',NULL,NULL,'585','3','/Uploads/goods_thumb/20171122/5a1573eebd130.jpg',NULL,'12g/支','3','1520305905','0','12.00') [ RunTime:0.0270s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','YANHEE 香蕉脚裂膏',NULL,'80.00','4.00','150.00',NULL,NULL,'583','10','/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg',NULL,'6瓶/盒','4','1520305905','0','12.00') [ RunTime:0.0220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T13:29:41+08:00 ] 192.168.1.123 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0050s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','0','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_order` [ RunTime:0.0040s ]
+SQL: INSERT INTO `lic_order` (`order_sn`,`group_id`,`user_id`,`yk_bguid`,`dy_id`,`nickname`,`mobile`,`pay_status`,`order_status`,`pay_type`,`pay_time`,`totalprice`,`lirunprice`,`suppliertotalprice`,`order_amount`,`createtime`,`is_valet`,`shipping_type`,`shipping_address`,`province`,`city`,`district`,`pay_username`,`ls_sn`,`yk_member_id`,`shipping_status`,`shipping_time`,`pay_sn`,`is_del`,`order_coupon_price`,`nicknamemd5`,`soid`,`is_claim`,`order_type`,`shippingmoney`,`shipping_name`,`shipping_no`,`shipping_shtime`,`is_view`,`click`,`total_taxprice`,`ip`,`bguid`) VALUES ('p1803061011452328','1087','639','0f96613235062963ccde717b18f97592','277','123123','13212313211','0','0','0',NULL,'2170.00','56.00',NULL,'2338.00','1520305905','0','1','123123123','2','52','500',NULL,NULL,'639','0',NULL,NULL,'0',NULL,'4297f44b13955235245b2497399d7a93','0','0','2','0.00',NULL,NULL,NULL,'0','0','168.00','192.168.1.111','dfb2cb066c5d3ba0d49dd8eff3ad1d5e') [ RunTime:0.0330s ]
+SQL: SHOW COLUMNS FROM `lic_order_goods` [ RunTime:0.0040s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00') [ RunTime:0.0180s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','STUD 100 喷剂',NULL,'70.00','4.00','180.00',NULL,NULL,'585','3','/Uploads/goods_thumb/20171122/5a1573eebd130.jpg',NULL,'12g/支','3','1520305905','0','12.00') [ RunTime:0.0270s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','YANHEE 香蕉脚裂膏',NULL,'80.00','4.00','150.00',NULL,NULL,'583','10','/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg',NULL,'6瓶/盒','4','1520305905','0','12.00') [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T15:13:35+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T15:43:05+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T15:43:46+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T15:45:53+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T15:47:16+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T15:48:34+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T15:51:48+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T15:52:17+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载缓存类型:127.0.0.1
+
+[ 2018-03-06T15:52:37+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载缓存类型:127.0.0.1
+
+[ 2018-03-06T15:53:10+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载缓存类型:127.0.0.1
+
+[ 2018-03-06T15:53:11+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载缓存类型:127.0.0.1
+
+[ 2018-03-06T15:53:12+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载缓存类型:127.0.0.1
+
+[ 2018-03-06T15:53:22+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T15:53:48+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-06T15:54:48+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T15:56:10+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T16:04:13+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0020s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','3','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_order` [ RunTime:0.0200s ]
+SQL: INSERT INTO `lic_order` (`order_sn`,`group_id`,`user_id`,`yk_bguid`,`dy_id`,`nickname`,`mobile`,`pay_status`,`order_status`,`pay_type`,`pay_time`,`totalprice`,`lirunprice`,`suppliertotalprice`,`order_amount`,`createtime`,`is_valet`,`shipping_type`,`shipping_address`,`province`,`city`,`district`,`pay_username`,`ls_sn`,`yk_member_id`,`shipping_status`,`shipping_time`,`pay_sn`,`is_del`,`order_coupon_price`,`nicknamemd5`,`soid`,`is_claim`,`order_type`,`shippingmoney`,`shipping_name`,`shipping_no`,`shipping_shtime`,`is_view`,`click`,`total_taxprice`,`ip`,`bguid`) VALUES ('p1803061011452328','1087','639','0f96613235062963ccde717b18f97592','277','123123','13212313211','0','0','0',NULL,'2170.00','56.00',NULL,'2338.00','1520305905','0','1','123123123','2','52','500',NULL,NULL,'639','0',NULL,NULL,'0',NULL,'4297f44b13955235245b2497399d7a93','0','0','2','0.00',NULL,NULL,NULL,'0','0','168.00','192.168.1.111','dfb2cb066c5d3ba0d49dd8eff3ad1d5e') [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `lic_order_goods` [ RunTime:0.0020s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00') [ RunTime:0.0190s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','STUD 100 喷剂',NULL,'70.00','4.00','180.00',NULL,NULL,'585','3','/Uploads/goods_thumb/20171122/5a1573eebd130.jpg',NULL,'12g/支','3','1520305905','0','12.00') [ RunTime:0.0270s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','YANHEE 香蕉脚裂膏',NULL,'80.00','4.00','150.00',NULL,NULL,'583','10','/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg',NULL,'6瓶/盒','4','1520305905','0','12.00') [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:04:30+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0030s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('0ce54d58af570c1b523272dc4e59d99f','order','dfb2cb066c5d3ba0d49dd8eff3ad1d5e','1','4','th',NULL,'1520305905','1','a:45:{s:2:\"id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:8:\"group_id\";s:4:\"1087\";s:7:\"user_id\";s:3:\"639\";s:8:\"yk_bguid\";s:32:\"0f96613235062963ccde717b18f97592\";s:5:\"dy_id\";s:3:\"277\";s:8:\"nickname\";s:6:\"123123\";s:6:\"mobile\";s:11:\"13212313211\";s:10:\"pay_status\";s:1:\"0\";s:12:\"order_status\";s:1:\"0\";s:8:\"pay_type\";s:1:\"0\";s:8:\"pay_time\";N;s:10:\"totalprice\";s:7:\"2170.00\";s:10:\"lirunprice\";s:5:\"56.00\";s:18:\"suppliertotalprice\";N;s:12:\"order_amount\";s:7:\"2338.00\";s:10:\"createtime\";s:10:\"1520305905\";s:8:\"is_valet\";s:1:\"0\";s:13:\"shipping_type\";s:1:\"1\";s:16:\"shipping_address\";s:9:\"123123123\";s:8:\"province\";s:1:\"2\";s:4:\"city\";s:2:\"52\";s:8:\"district\";s:3:\"500\";s:12:\"pay_username\";N;s:5:\"ls_sn\";N;s:12:\"yk_member_id\";s:3:\"639\";s:15:\"shipping_status\";s:1:\"0\";s:13:\"shipping_time\";N;s:6:\"pay_sn\";N;s:6:\"is_del\";s:1:\"0\";s:18:\"order_coupon_price\";N;s:11:\"nicknamemd5\";s:32:\"4297f44b13955235245b2497399d7a93\";s:4:\"soid\";s:1:\"0\";s:8:\"is_claim\";s:1:\"0\";s:10:\"order_type\";s:1:\"2\";s:13:\"shippingmoney\";s:4:\"0.00\";s:13:\"shipping_name\";N;s:11:\"shipping_no\";N;s:15:\"shipping_shtime\";N;s:7:\"is_view\";s:1:\"0\";s:5:\"click\";s:1:\"0\";s:14:\"total_taxprice\";s:6:\"168.00\";s:2:\"ip\";s:13:\"192.168.1.111\";s:5:\"bguid\";s:32:\"dfb2cb066c5d3ba0d49dd8eff3ad1d5e\";s:10:\"ordergoods\";a:3:{i:0;a:19:{s:2:\"id\";s:4:\"2311\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:30:\"VOODOO 蛇毒面膜霜(黑色)\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"46.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"130.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"410\";s:12:\"goods_number\";s:1:\"1\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171029/59f56d044cda6.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"30g/盒\";s:11:\"goodsareaid\";s:1:\"2\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:1;a:19:{s:2:\"id\";s:4:\"2312\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:15:\"STUD 100 喷剂\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"70.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"180.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"585\";s:12:\"goods_number\";s:1:\"3\";s:5:\"thumb\";s:47:\"/Uploads/goods_thumb/20171122/5a1573eebd130.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:7:\"12g/支\";s:11:\"goodsareaid\";s:1:\"3\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}i:2;a:19:{s:2:\"id\";s:4:\"2313\";s:8:\"order_id\";s:3:\"474\";s:8:\"order_sn\";s:17:\"p1803061011452328\";s:10:\"goods_name\";s:22:\"YANHEE 香蕉脚裂膏\";s:12:\"supply_price\";N;s:10:\"lirunprice\";s:5:\"80.00\";s:15:\"chinalirunprice\";s:4:\"4.00\";s:5:\"price\";s:6:\"150.00\";s:10:\"dygoods_id\";N;s:10:\"dggoods_id\";N;s:8:\"goods_id\";s:3:\"583\";s:12:\"goods_number\";s:2:\"10\";s:5:\"thumb\";s:48:\"/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg\";s:6:\"weight\";N;s:4:\"spec\";s:8:\"6瓶/盒\";s:11:\"goodsareaid\";s:1:\"4\";s:10:\"createtime\";s:10:\"1520305905\";s:11:\"send_number\";s:1:\"0\";s:8:\"taxprice\";s:5:\"12.00\";}}}','add') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_order` [ RunTime:0.0040s ]
+SQL: INSERT INTO `lic_order` (`order_sn`,`group_id`,`user_id`,`yk_bguid`,`dy_id`,`nickname`,`mobile`,`pay_status`,`order_status`,`pay_type`,`pay_time`,`totalprice`,`lirunprice`,`suppliertotalprice`,`order_amount`,`createtime`,`is_valet`,`shipping_type`,`shipping_address`,`province`,`city`,`district`,`pay_username`,`ls_sn`,`yk_member_id`,`shipping_status`,`shipping_time`,`pay_sn`,`is_del`,`order_coupon_price`,`nicknamemd5`,`soid`,`is_claim`,`order_type`,`shippingmoney`,`shipping_name`,`shipping_no`,`shipping_shtime`,`is_view`,`click`,`total_taxprice`,`ip`,`bguid`) VALUES ('p1803061011452328','1087','639','0f96613235062963ccde717b18f97592','277','123123','13212313211','0','0','0',NULL,'2170.00','56.00',NULL,'2338.00','1520305905','0','1','123123123','2','52','500',NULL,NULL,'639','0',NULL,NULL,'0',NULL,'4297f44b13955235245b2497399d7a93','0','0','2','0.00',NULL,NULL,NULL,'0','0','168.00','192.168.1.111','dfb2cb066c5d3ba0d49dd8eff3ad1d5e') [ RunTime:0.0330s ]
+SQL: SHOW COLUMNS FROM `lic_order_goods` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','VOODOO 蛇毒面膜霜(黑色)',NULL,'46.00','4.00','130.00',NULL,NULL,'410','1','/Uploads/UploadAddons/20171029/59f56d044cda6.jpg',NULL,'30g/盒','2','1520305905','0','12.00') [ RunTime:0.0200s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','STUD 100 喷剂',NULL,'70.00','4.00','180.00',NULL,NULL,'585','3','/Uploads/goods_thumb/20171122/5a1573eebd130.jpg',NULL,'12g/支','3','1520305905','0','12.00') [ RunTime:0.0350s ]
+SQL: INSERT INTO `lic_order_goods` (`order_id`,`order_sn`,`goods_name`,`supply_price`,`lirunprice`,`chinalirunprice`,`price`,`dygoods_id`,`dggoods_id`,`goods_id`,`goods_number`,`thumb`,`weight`,`spec`,`goodsareaid`,`createtime`,`send_number`,`taxprice`) VALUES ('474','p1803061011452328','YANHEE 香蕉脚裂膏',NULL,'80.00','4.00','150.00',NULL,NULL,'583','10','/Uploads/UploadAddons/20171101/59f974bbe97fc.jpg',NULL,'6瓶/盒','4','1520305905','0','12.00') [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:04:30+08:00 ] 192.168.1.123 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:04:30+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0030s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('5a5d4d5729d89a44e21a30391d94316a','goods','705','1','4','th',NULL,'1520307160','1','N;','add') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:06:58+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T16:07:00+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T16:07:04+08:00 ] 192.168.1.123 /Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T16:13:52+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0070s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('3b725418b3c3f678d29180607665a2b7','dy_member','8344ebadf2e16c88439535d305e3836d','1','3','th',NULL,'1520323453','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"0\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"0\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','add') [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:13:52+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0050s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('3b725418b3c3f678d29180607665a2b7','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520323453','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"0\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"0\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','add') [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T16:28:05+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0130s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('03934fb1511f0508c8bfbc056aec44a9','dy_member','8344ebadf2e16c88439535d305e3836d','1','0','th',NULL,'1520324885','0','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:28:06+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0120s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('03934fb1511f0508c8bfbc056aec44a9','dy_member','8344ebadf2e16c88439535d305e3836d','1','1','th',NULL,'1520324885','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:43:43+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0070s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('03934fb1511f0508c8bfbc056aec44a9','dy_member','8344ebadf2e16c88439535d305e3836d','1','2','th',NULL,'1520324885','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T16:43:44+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0050s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('03934fb1511f0508c8bfbc056aec44a9','dy_member','8344ebadf2e16c88439535d305e3836d','1','3','th',NULL,'1520324885','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:46:29+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0070s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('03934fb1511f0508c8bfbc056aec44a9','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520324885','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T16:46:30+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0110s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('d0ba0d1c5f49f170dac0888b236cf2b7','dy_group','f3d1b3a6a5f07664b68785824d6eca79','1','4','th',NULL,'1520324885','1','a:55:{s:2:\"id\";s:3:\"969\";s:8:\"group_sn\";s:3:\"cs1\";s:8:\"r_number\";N;s:5:\"dy_id\";s:3:\"273\";s:5:\"title\";N;s:18:\"suppliertotalprice\";s:4:\"0.00\";s:10:\"totalprice\";s:7:\"3300.00\";s:10:\"lirunprice\";s:7:\"1490.00\";s:10:\"createtime\";s:10:\"1516862086\";s:12:\"order_status\";s:1:\"1\";s:12:\"shpping_type\";s:1:\"1\";s:15:\"shpping_address\";s:17:\"曼谷 其他 123\";s:6:\"mobile\";s:11:\"15730351332\";s:8:\"nickname\";s:6:\"测试\";s:11:\"supplier_id\";s:2:\"40\";s:10:\"pay_status\";s:1:\"1\";s:13:\"shippingmoney\";s:5:\"40.00\";s:8:\"pay_type\";N;s:8:\"ye_money\";N;s:8:\"is_money\";s:1:\"0\";s:14:\"sjorder_amount\";N;s:8:\"pay_time\";s:10:\"1517039197\";s:12:\"order_amount\";N;s:9:\"coupon_id\";N;s:11:\"couponmoney\";N;s:13:\"shipping_time\";s:10:\"1517039219\";s:15:\"shipping_status\";s:1:\"3\";s:15:\"shipping_shtime\";s:10:\"1517039262\";s:10:\"updatetime\";s:10:\"1517039197\";s:5:\"paysn\";N;s:12:\"shippingtime\";s:10:\"1516986000\";s:9:\"is_orders\";s:1:\"1\";s:10:\"orderstime\";s:10:\"1517039206\";s:21:\"supplier_order_amount\";s:7:\"1631.97\";s:13:\"sendordertime\";s:10:\"1517039198\";s:15:\"shpping_city_id\";s:1:\"1\";s:15:\"sendordernumber\";s:1:\"0\";s:4:\"zdsh\";s:1:\"0\";s:17:\"shipping_shperiod\";s:5:\"18:44\";s:17:\"shipping_location\";s:1:\"6\";s:10:\"hotel_name\";s:0:\"\";s:12:\"hotel_mobile\";s:0:\"\";s:8:\"zscoupon\";s:1:\"0\";s:6:\"is_del\";s:1:\"0\";s:16:\"shipping_sd_time\";N;s:5:\"qudao\";s:1:\"0\";s:13:\"delivery_name\";N;s:15:\"delivery_mobile\";s:3:\"123\";s:11:\"agentsprice\";s:5:\"14.90\";s:15:\"delivery_cftime\";s:10:\"1517042731\";s:10:\"was_status\";s:1:\"0\";s:8:\"was_time\";N;s:14:\"c_order_status\";s:1:\"0\";s:11:\"lastbuytime\";N;s:5:\"click\";N;}','add') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_dy_group` [ RunTime:0.0050s ]
+SQL: INSERT INTO `lic_dy_group` (`group_sn`,`r_number`,`dy_id`,`title`,`suppliertotalprice`,`totalprice`,`lirunprice`,`createtime`,`order_status`,`shpping_type`,`shpping_address`,`mobile`,`nickname`,`supplier_id`,`pay_status`,`shippingmoney`,`pay_type`,`ye_money`,`is_money`,`sjorder_amount`,`pay_time`,`order_amount`,`coupon_id`,`couponmoney`,`shipping_time`,`shipping_status`,`shipping_shtime`,`updatetime`,`paysn`,`shippingtime`,`is_orders`,`orderstime`,`supplier_order_amount`,`sendordertime`,`shpping_city_id`,`sendordernumber`,`zdsh`,`shipping_shperiod`,`shipping_location`,`hotel_name`,`hotel_mobile`,`zscoupon`,`is_del`,`shipping_sd_time`,`qudao`,`delivery_name`,`delivery_mobile`,`agentsprice`,`delivery_cftime`,`was_status`,`was_time`,`c_order_status`,`lastbuytime`,`click`) VALUES ('cs1',NULL,'273',NULL,'0.00','3300.00','1490.00','1516862086','1','1','曼谷 其他 123','15730351332','测试','40','1','40.00',NULL,NULL,'0',NULL,'1517039197',NULL,NULL,NULL,'1517039219','3','1517039262','1517039197',NULL,'1516986000','1','1517039206','1631.97','1517039198','1','0','0','18:44','6','','','0','0',NULL,'0',NULL,'123','14.90','1517042731','0',NULL,'0',NULL,NULL) [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T16:54:27+08:00 ] 192.168.1.123 /Admin/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T17:06:36+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0070s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('9908c2a886fec415e8bb94633a3bc898','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520325823','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"0\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:06:37+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0100s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('be1355e901c9379f47c0a7ec79a5d948','dy_group',NULL,'1','4','th',NULL,'1520325823','1','a:55:{s:2:\"id\";s:3:\"969\";s:8:\"group_sn\";s:3:\"cs1\";s:8:\"r_number\";N;s:5:\"dy_id\";s:3:\"273\";s:5:\"title\";N;s:18:\"suppliertotalprice\";s:4:\"0.00\";s:10:\"totalprice\";s:7:\"3300.00\";s:10:\"lirunprice\";s:7:\"1490.00\";s:10:\"createtime\";s:10:\"1516862086\";s:12:\"order_status\";s:1:\"1\";s:12:\"shpping_type\";s:1:\"1\";s:15:\"shpping_address\";s:17:\"曼谷 其他 123\";s:6:\"mobile\";s:11:\"15730351332\";s:8:\"nickname\";s:6:\"测试\";s:11:\"supplier_id\";s:2:\"40\";s:10:\"pay_status\";s:1:\"1\";s:13:\"shippingmoney\";s:5:\"40.00\";s:8:\"pay_type\";N;s:8:\"ye_money\";N;s:8:\"is_money\";s:1:\"0\";s:14:\"sjorder_amount\";N;s:8:\"pay_time\";s:10:\"1517039197\";s:12:\"order_amount\";N;s:9:\"coupon_id\";N;s:11:\"couponmoney\";N;s:13:\"shipping_time\";s:10:\"1517039219\";s:15:\"shipping_status\";s:1:\"3\";s:15:\"shipping_shtime\";s:10:\"1517039262\";s:10:\"updatetime\";s:10:\"1517039197\";s:5:\"paysn\";N;s:12:\"shippingtime\";s:10:\"1516986000\";s:9:\"is_orders\";s:1:\"1\";s:10:\"orderstime\";s:10:\"1517039206\";s:21:\"supplier_order_amount\";s:7:\"1631.97\";s:13:\"sendordertime\";s:10:\"1517039198\";s:15:\"shpping_city_id\";s:1:\"1\";s:15:\"sendordernumber\";s:1:\"0\";s:4:\"zdsh\";s:1:\"0\";s:17:\"shipping_shperiod\";s:5:\"18:44\";s:17:\"shipping_location\";s:1:\"6\";s:10:\"hotel_name\";s:0:\"\";s:12:\"hotel_mobile\";s:0:\"\";s:8:\"zscoupon\";s:1:\"0\";s:6:\"is_del\";s:1:\"0\";s:16:\"shipping_sd_time\";N;s:5:\"qudao\";s:1:\"0\";s:13:\"delivery_name\";N;s:15:\"delivery_mobile\";s:3:\"123\";s:11:\"agentsprice\";s:5:\"14.90\";s:15:\"delivery_cftime\";s:10:\"1517042731\";s:10:\"was_status\";s:1:\"0\";s:8:\"was_time\";N;s:14:\"c_order_status\";s:1:\"0\";s:11:\"lastbuytime\";N;s:5:\"click\";N;}','edit') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_dy_group` [ RunTime:0.0050s ]
+SQL: INSERT INTO `lic_dy_group` (`group_sn`,`r_number`,`dy_id`,`title`,`suppliertotalprice`,`totalprice`,`lirunprice`,`createtime`,`order_status`,`shpping_type`,`shpping_address`,`mobile`,`nickname`,`supplier_id`,`pay_status`,`shippingmoney`,`pay_type`,`ye_money`,`is_money`,`sjorder_amount`,`pay_time`,`order_amount`,`coupon_id`,`couponmoney`,`shipping_time`,`shipping_status`,`shipping_shtime`,`updatetime`,`paysn`,`shippingtime`,`is_orders`,`orderstime`,`supplier_order_amount`,`sendordertime`,`shpping_city_id`,`sendordernumber`,`zdsh`,`shipping_shperiod`,`shipping_location`,`hotel_name`,`hotel_mobile`,`zscoupon`,`is_del`,`shipping_sd_time`,`qudao`,`delivery_name`,`delivery_mobile`,`agentsprice`,`delivery_cftime`,`was_status`,`was_time`,`c_order_status`,`lastbuytime`,`click`) VALUES ('cs1',NULL,'273',NULL,'0.00','3300.00','1490.00','1516862086','1','1','曼谷 其他 123','15730351332','测试','40','1','40.00',NULL,NULL,'0',NULL,'1517039197',NULL,NULL,NULL,'1517039219','3','1517039262','1517039197',NULL,'1516986000','1','1517039206','1631.97','1517039198','1','0','0','18:44','6','','','0','0',NULL,'0',NULL,'123','14.90','1517042731','0',NULL,'0',NULL,NULL) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:17:52+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('d44b24d25f4cba4c0040547ddd0f7ef8','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520325989','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T17:17:53+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('ac43ef0d87db76a5165c0755d23a39e6','dy_group','942758c4e7da76c034eae82a92599e02','1','4','th',NULL,'1520325989','1','a:55:{s:2:\"id\";s:3:\"969\";s:8:\"group_sn\";s:3:\"cs1\";s:8:\"r_number\";N;s:5:\"dy_id\";s:3:\"273\";s:5:\"title\";N;s:18:\"suppliertotalprice\";s:4:\"0.00\";s:10:\"totalprice\";s:7:\"3300.00\";s:10:\"lirunprice\";s:7:\"1490.00\";s:10:\"createtime\";s:10:\"1516862086\";s:12:\"order_status\";s:1:\"1\";s:12:\"shpping_type\";s:1:\"1\";s:15:\"shpping_address\";s:17:\"曼谷 其他 123\";s:6:\"mobile\";s:11:\"15730351332\";s:8:\"nickname\";s:6:\"测试\";s:11:\"supplier_id\";s:2:\"40\";s:10:\"pay_status\";s:1:\"1\";s:13:\"shippingmoney\";s:5:\"40.00\";s:8:\"pay_type\";N;s:8:\"ye_money\";N;s:8:\"is_money\";s:1:\"0\";s:14:\"sjorder_amount\";N;s:8:\"pay_time\";s:10:\"1517039197\";s:12:\"order_amount\";N;s:9:\"coupon_id\";N;s:11:\"couponmoney\";N;s:13:\"shipping_time\";s:10:\"1517039219\";s:15:\"shipping_status\";s:1:\"3\";s:15:\"shipping_shtime\";s:10:\"1517039262\";s:10:\"updatetime\";s:10:\"1517039197\";s:5:\"paysn\";N;s:12:\"shippingtime\";s:10:\"1516986000\";s:9:\"is_orders\";s:1:\"1\";s:10:\"orderstime\";s:10:\"1517039206\";s:21:\"supplier_order_amount\";s:7:\"1631.97\";s:13:\"sendordertime\";s:10:\"1517039198\";s:15:\"shpping_city_id\";s:1:\"1\";s:15:\"sendordernumber\";s:1:\"0\";s:4:\"zdsh\";s:1:\"0\";s:17:\"shipping_shperiod\";s:5:\"18:44\";s:17:\"shipping_location\";s:1:\"6\";s:10:\"hotel_name\";s:0:\"\";s:12:\"hotel_mobile\";s:0:\"\";s:8:\"zscoupon\";s:1:\"0\";s:6:\"is_del\";s:1:\"0\";s:16:\"shipping_sd_time\";N;s:5:\"qudao\";s:1:\"0\";s:13:\"delivery_name\";N;s:15:\"delivery_mobile\";s:3:\"123\";s:11:\"agentsprice\";s:5:\"14.90\";s:15:\"delivery_cftime\";s:10:\"1517042731\";s:10:\"was_status\";s:1:\"0\";s:8:\"was_time\";N;s:14:\"c_order_status\";s:1:\"0\";s:11:\"lastbuytime\";N;s:5:\"click\";N;}','add') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_dy_group` [ RunTime:0.0020s ]
+SQL: INSERT INTO `lic_dy_group` (`group_sn`,`r_number`,`dy_id`,`title`,`suppliertotalprice`,`totalprice`,`lirunprice`,`createtime`,`order_status`,`shpping_type`,`shpping_address`,`mobile`,`nickname`,`supplier_id`,`pay_status`,`shippingmoney`,`pay_type`,`ye_money`,`is_money`,`sjorder_amount`,`pay_time`,`order_amount`,`coupon_id`,`couponmoney`,`shipping_time`,`shipping_status`,`shipping_shtime`,`updatetime`,`paysn`,`shippingtime`,`is_orders`,`orderstime`,`supplier_order_amount`,`sendordertime`,`shpping_city_id`,`sendordernumber`,`zdsh`,`shipping_shperiod`,`shipping_location`,`hotel_name`,`hotel_mobile`,`zscoupon`,`is_del`,`shipping_sd_time`,`qudao`,`delivery_name`,`delivery_mobile`,`agentsprice`,`delivery_cftime`,`was_status`,`was_time`,`c_order_status`,`lastbuytime`,`click`) VALUES ('cs1',NULL,'273',NULL,'0.00','3300.00','1490.00','1516862086','1','1','曼谷 其他 123','15730351332','测试','40','1','40.00',NULL,NULL,'0',NULL,'1517039197',NULL,NULL,NULL,'1517039219','3','1517039262','1517039197',NULL,'1516986000','1','1517039206','1631.97','1517039198','1','0','0','18:44','6','','','0','0',NULL,'0',NULL,'123','14.90','1517042731','0',NULL,'0',NULL,NULL) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:20:58+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('6b97fac3ea06d2860ea0d87fa172858d','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520327196','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:21:03+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0030s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('ee1dff0b46d01f826e435aa80ca621e8','dy_group','3682b3333f7b057fd6478f998a2ab1e6','1','4','th',NULL,'1520327196','1','a:55:{s:2:\"id\";s:3:\"969\";s:8:\"group_sn\";s:3:\"cs1\";s:8:\"r_number\";N;s:5:\"dy_id\";s:3:\"273\";s:5:\"title\";N;s:18:\"suppliertotalprice\";s:4:\"0.00\";s:10:\"totalprice\";s:7:\"3300.00\";s:10:\"lirunprice\";s:7:\"1490.00\";s:10:\"createtime\";s:10:\"1516862086\";s:12:\"order_status\";s:1:\"1\";s:12:\"shpping_type\";s:1:\"1\";s:15:\"shpping_address\";s:17:\"曼谷 其他 123\";s:6:\"mobile\";s:11:\"15730351332\";s:8:\"nickname\";s:6:\"测试\";s:11:\"supplier_id\";s:2:\"40\";s:10:\"pay_status\";s:1:\"1\";s:13:\"shippingmoney\";s:5:\"40.00\";s:8:\"pay_type\";N;s:8:\"ye_money\";N;s:8:\"is_money\";s:1:\"0\";s:14:\"sjorder_amount\";N;s:8:\"pay_time\";s:10:\"1517039197\";s:12:\"order_amount\";N;s:9:\"coupon_id\";N;s:11:\"couponmoney\";N;s:13:\"shipping_time\";s:10:\"1517039219\";s:15:\"shipping_status\";s:1:\"3\";s:15:\"shipping_shtime\";s:10:\"1517039262\";s:10:\"updatetime\";s:10:\"1517039197\";s:5:\"paysn\";N;s:12:\"shippingtime\";s:10:\"1516986000\";s:9:\"is_orders\";s:1:\"1\";s:10:\"orderstime\";s:10:\"1517039206\";s:21:\"supplier_order_amount\";s:7:\"1631.97\";s:13:\"sendordertime\";s:10:\"1517039198\";s:15:\"shpping_city_id\";s:1:\"1\";s:15:\"sendordernumber\";s:1:\"0\";s:4:\"zdsh\";s:1:\"0\";s:17:\"shipping_shperiod\";s:5:\"18:44\";s:17:\"shipping_location\";s:1:\"6\";s:10:\"hotel_name\";s:0:\"\";s:12:\"hotel_mobile\";s:0:\"\";s:8:\"zscoupon\";s:1:\"0\";s:6:\"is_del\";s:1:\"0\";s:16:\"shipping_sd_time\";N;s:5:\"qudao\";s:1:\"0\";s:13:\"delivery_name\";N;s:15:\"delivery_mobile\";s:3:\"123\";s:11:\"agentsprice\";s:5:\"14.90\";s:15:\"delivery_cftime\";s:10:\"1517042731\";s:10:\"was_status\";s:1:\"0\";s:8:\"was_time\";N;s:14:\"c_order_status\";s:1:\"0\";s:11:\"lastbuytime\";N;s:5:\"click\";N;}','add') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_dy_group` [ RunTime:0.0020s ]
+SQL: INSERT INTO `lic_dy_group` (`group_sn`,`r_number`,`dy_id`,`title`,`suppliertotalprice`,`totalprice`,`lirunprice`,`createtime`,`order_status`,`shpping_type`,`shpping_address`,`mobile`,`nickname`,`supplier_id`,`pay_status`,`shippingmoney`,`pay_type`,`ye_money`,`is_money`,`sjorder_amount`,`pay_time`,`order_amount`,`coupon_id`,`couponmoney`,`shipping_time`,`shipping_status`,`shipping_shtime`,`updatetime`,`paysn`,`shippingtime`,`is_orders`,`orderstime`,`supplier_order_amount`,`sendordertime`,`shpping_city_id`,`sendordernumber`,`zdsh`,`shipping_shperiod`,`shipping_location`,`hotel_name`,`hotel_mobile`,`zscoupon`,`is_del`,`shipping_sd_time`,`qudao`,`delivery_name`,`delivery_mobile`,`agentsprice`,`delivery_cftime`,`was_status`,`was_time`,`c_order_status`,`lastbuytime`,`click`) VALUES ('cs1',NULL,'273',NULL,'0.00','3300.00','1490.00','1516862086','1','1','曼谷 其他 123','15730351332','测试','40','1','40.00',NULL,NULL,'0',NULL,'1517039197',NULL,NULL,NULL,'1517039219','3','1517039262','1517039197',NULL,'1516986000','1','1517039206','1631.97','1517039198','1','0','0','18:44','6','','','0','0',NULL,'0',NULL,'123','14.90','1517042731','0',NULL,'0',NULL,NULL) [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-06T17:21:59+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0080s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('7f56886623f5272fc3632b9d2e65b764','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520327872','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:25:46+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0030s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('50bd771333407dbcd52bdf6428d72a67','dy_group','b5c81596eea13886d4d12a369a3dc196','1','4','th',NULL,'1520327872','1','a:55:{s:2:\"id\";s:3:\"969\";s:8:\"group_sn\";s:3:\"cs1\";s:8:\"r_number\";N;s:5:\"dy_id\";s:3:\"273\";s:5:\"title\";N;s:18:\"suppliertotalprice\";s:4:\"0.00\";s:10:\"totalprice\";s:7:\"3300.00\";s:10:\"lirunprice\";s:7:\"1490.00\";s:10:\"createtime\";s:10:\"1516862086\";s:12:\"order_status\";s:1:\"1\";s:12:\"shpping_type\";s:1:\"1\";s:15:\"shpping_address\";s:17:\"曼谷 其他 123\";s:6:\"mobile\";s:11:\"15730351332\";s:8:\"nickname\";s:6:\"测试\";s:11:\"supplier_id\";s:2:\"40\";s:10:\"pay_status\";s:1:\"1\";s:13:\"shippingmoney\";s:5:\"40.00\";s:8:\"pay_type\";N;s:8:\"ye_money\";N;s:8:\"is_money\";s:1:\"0\";s:14:\"sjorder_amount\";N;s:8:\"pay_time\";s:10:\"1517039197\";s:12:\"order_amount\";N;s:9:\"coupon_id\";N;s:11:\"couponmoney\";N;s:13:\"shipping_time\";s:10:\"1517039219\";s:15:\"shipping_status\";s:1:\"3\";s:15:\"shipping_shtime\";s:10:\"1517039262\";s:10:\"updatetime\";s:10:\"1517039197\";s:5:\"paysn\";N;s:12:\"shippingtime\";s:10:\"1516986000\";s:9:\"is_orders\";s:1:\"1\";s:10:\"orderstime\";s:10:\"1517039206\";s:21:\"supplier_order_amount\";s:7:\"1631.97\";s:13:\"sendordertime\";s:10:\"1517039198\";s:15:\"shpping_city_id\";s:1:\"1\";s:15:\"sendordernumber\";s:1:\"0\";s:4:\"zdsh\";s:1:\"0\";s:17:\"shipping_shperiod\";s:5:\"18:44\";s:17:\"shipping_location\";s:1:\"6\";s:10:\"hotel_name\";s:0:\"\";s:12:\"hotel_mobile\";s:0:\"\";s:8:\"zscoupon\";s:1:\"0\";s:6:\"is_del\";s:1:\"0\";s:16:\"shipping_sd_time\";N;s:5:\"qudao\";s:1:\"0\";s:13:\"delivery_name\";N;s:15:\"delivery_mobile\";s:3:\"123\";s:11:\"agentsprice\";s:5:\"14.90\";s:15:\"delivery_cftime\";s:10:\"1517042731\";s:10:\"was_status\";s:1:\"0\";s:8:\"was_time\";N;s:14:\"c_order_status\";s:1:\"0\";s:11:\"lastbuytime\";N;s:5:\"click\";N;}','add') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_dy_group` [ RunTime:0.0040s ]
+SQL: INSERT INTO `lic_dy_group` (`group_sn`,`r_number`,`dy_id`,`title`,`suppliertotalprice`,`totalprice`,`lirunprice`,`createtime`,`order_status`,`shpping_type`,`shpping_address`,`mobile`,`nickname`,`supplier_id`,`pay_status`,`shippingmoney`,`pay_type`,`ye_money`,`is_money`,`sjorder_amount`,`pay_time`,`order_amount`,`coupon_id`,`couponmoney`,`shipping_time`,`shipping_status`,`shipping_shtime`,`updatetime`,`paysn`,`shippingtime`,`is_orders`,`orderstime`,`supplier_order_amount`,`sendordertime`,`shpping_city_id`,`sendordernumber`,`zdsh`,`shipping_shperiod`,`shipping_location`,`hotel_name`,`hotel_mobile`,`zscoupon`,`is_del`,`shipping_sd_time`,`qudao`,`delivery_name`,`delivery_mobile`,`agentsprice`,`delivery_cftime`,`was_status`,`was_time`,`c_order_status`,`lastbuytime`,`click`) VALUES ('cs1',NULL,'273',NULL,'0.00','3300.00','1490.00','1516862086','1','1','曼谷 其他 123','15730351332','测试','40','1','40.00',NULL,NULL,'0',NULL,'1517039197',NULL,NULL,NULL,'1517039219','3','1517039262','1517039197',NULL,'1516986000','1','1517039206','1631.97','1517039198','1','0','0','18:44','6','','','0','0',NULL,'0',NULL,'123','14.90','1517042731','0',NULL,'0',NULL,NULL) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:28:12+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0030s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('3650593c29b184aca5005d8d85cb08cd','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520328058','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:28:13+08:00 ] 192.168.1.123 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:28:13+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0020s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('e322f6e3e0862e3f54bea289c4752cfd','dy_group','6ca705db460c15e7fbf1e5fe18dbd720','1','4','th',NULL,'1520328058','1','a:55:{s:2:\"id\";s:3:\"969\";s:8:\"group_sn\";s:3:\"cs1\";s:8:\"r_number\";N;s:5:\"dy_id\";s:3:\"273\";s:5:\"title\";N;s:18:\"suppliertotalprice\";s:4:\"0.00\";s:10:\"totalprice\";s:7:\"3300.00\";s:10:\"lirunprice\";s:7:\"1490.00\";s:10:\"createtime\";s:10:\"1516862086\";s:12:\"order_status\";s:1:\"1\";s:12:\"shpping_type\";s:1:\"1\";s:15:\"shpping_address\";s:17:\"曼谷 其他 123\";s:6:\"mobile\";s:11:\"15730351332\";s:8:\"nickname\";s:6:\"测试\";s:11:\"supplier_id\";s:2:\"40\";s:10:\"pay_status\";s:1:\"1\";s:13:\"shippingmoney\";s:5:\"40.00\";s:8:\"pay_type\";N;s:8:\"ye_money\";N;s:8:\"is_money\";s:1:\"0\";s:14:\"sjorder_amount\";N;s:8:\"pay_time\";s:10:\"1517039197\";s:12:\"order_amount\";N;s:9:\"coupon_id\";N;s:11:\"couponmoney\";N;s:13:\"shipping_time\";s:10:\"1517039219\";s:15:\"shipping_status\";s:1:\"3\";s:15:\"shipping_shtime\";s:10:\"1517039262\";s:10:\"updatetime\";s:10:\"1517039197\";s:5:\"paysn\";N;s:12:\"shippingtime\";s:10:\"1516986000\";s:9:\"is_orders\";s:1:\"1\";s:10:\"orderstime\";s:10:\"1517039206\";s:21:\"supplier_order_amount\";s:7:\"1631.97\";s:13:\"sendordertime\";s:10:\"1517039198\";s:15:\"shpping_city_id\";s:1:\"1\";s:15:\"sendordernumber\";s:1:\"0\";s:4:\"zdsh\";s:1:\"0\";s:17:\"shipping_shperiod\";s:5:\"18:44\";s:17:\"shipping_location\";s:1:\"6\";s:10:\"hotel_name\";s:0:\"\";s:12:\"hotel_mobile\";s:0:\"\";s:8:\"zscoupon\";s:1:\"0\";s:6:\"is_del\";s:1:\"0\";s:16:\"shipping_sd_time\";N;s:5:\"qudao\";s:1:\"0\";s:13:\"delivery_name\";N;s:15:\"delivery_mobile\";s:3:\"123\";s:11:\"agentsprice\";s:5:\"14.90\";s:15:\"delivery_cftime\";s:10:\"1517042731\";s:10:\"was_status\";s:1:\"0\";s:8:\"was_time\";N;s:14:\"c_order_status\";s:1:\"0\";s:11:\"lastbuytime\";N;s:5:\"click\";N;}','add') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_dy_group` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_dy_group` (`group_sn`,`r_number`,`dy_id`,`title`,`suppliertotalprice`,`totalprice`,`lirunprice`,`createtime`,`order_status`,`shpping_type`,`shpping_address`,`mobile`,`nickname`,`supplier_id`,`pay_status`,`shippingmoney`,`pay_type`,`ye_money`,`is_money`,`sjorder_amount`,`pay_time`,`order_amount`,`coupon_id`,`couponmoney`,`shipping_time`,`shipping_status`,`shipping_shtime`,`updatetime`,`paysn`,`shippingtime`,`is_orders`,`orderstime`,`supplier_order_amount`,`sendordertime`,`shpping_city_id`,`sendordernumber`,`zdsh`,`shipping_shperiod`,`shipping_location`,`hotel_name`,`hotel_mobile`,`zscoupon`,`is_del`,`shipping_sd_time`,`qudao`,`delivery_name`,`delivery_mobile`,`agentsprice`,`delivery_cftime`,`was_status`,`was_time`,`c_order_status`,`lastbuytime`,`click`) VALUES ('cs1',NULL,'273',NULL,'0.00','3300.00','1490.00','1516862086','1','1','曼谷 其他 123','15730351332','测试','40','1','40.00',NULL,NULL,'0',NULL,'1517039197',NULL,NULL,NULL,'1517039219','3','1517039262','1517039197',NULL,'1516986000','1','1517039206','1631.97','1517039198','1','0','0','18:44','6','','','0','0',NULL,'0',NULL,'123','14.90','1517042731','0',NULL,'0',NULL,NULL) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:30:17+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0040s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('aace72456a40ee605d35e9be517ff4fd','yk_member',NULL,'1','4','th',NULL,'1520328119','1','N;','edit') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_yk_member` [ RunTime:0.0100s ]
+ERR: 非法数据对象！
+
+[ 2018-03-06T17:30:18+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0060s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('f4f1a503f9fe97cb4c3d21ff1b31e519','yk_member',NULL,'1','4','th',NULL,'1520328346','1','N;','edit') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_yk_member` [ RunTime:0.0060s ]
+ERR: 非法数据对象！
+
+[ 2018-03-06T17:33:09+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0050s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('55cb4f118f84852fe60a39f6d1ec2624','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520328492','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"0\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:33:10+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0060s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('c5a2ddf0904ed19e3d7c74165e47841d','dy_group',NULL,'1','4','th',NULL,'1520328492','1','a:55:{s:2:\"id\";s:3:\"969\";s:8:\"group_sn\";s:3:\"cs1\";s:8:\"r_number\";N;s:5:\"dy_id\";s:3:\"273\";s:5:\"title\";N;s:18:\"suppliertotalprice\";s:4:\"0.00\";s:10:\"totalprice\";s:7:\"3300.00\";s:10:\"lirunprice\";s:7:\"1490.00\";s:10:\"createtime\";s:10:\"1516862086\";s:12:\"order_status\";s:1:\"1\";s:12:\"shpping_type\";s:1:\"1\";s:15:\"shpping_address\";s:17:\"曼谷 其他 123\";s:6:\"mobile\";s:11:\"15730351332\";s:8:\"nickname\";s:6:\"测试\";s:11:\"supplier_id\";s:2:\"40\";s:10:\"pay_status\";s:1:\"1\";s:13:\"shippingmoney\";s:5:\"40.00\";s:8:\"pay_type\";N;s:8:\"ye_money\";N;s:8:\"is_money\";s:1:\"0\";s:14:\"sjorder_amount\";N;s:8:\"pay_time\";s:10:\"1517039197\";s:12:\"order_amount\";N;s:9:\"coupon_id\";N;s:11:\"couponmoney\";N;s:13:\"shipping_time\";s:10:\"1517039219\";s:15:\"shipping_status\";s:1:\"3\";s:15:\"shipping_shtime\";s:10:\"1517039262\";s:10:\"updatetime\";s:10:\"1517039197\";s:5:\"paysn\";N;s:12:\"shippingtime\";s:10:\"1516986000\";s:9:\"is_orders\";s:1:\"1\";s:10:\"orderstime\";s:10:\"1517039206\";s:21:\"supplier_order_amount\";s:7:\"1631.97\";s:13:\"sendordertime\";s:10:\"1517039198\";s:15:\"shpping_city_id\";s:1:\"1\";s:15:\"sendordernumber\";s:1:\"0\";s:4:\"zdsh\";s:1:\"0\";s:17:\"shipping_shperiod\";s:5:\"18:44\";s:17:\"shipping_location\";s:1:\"6\";s:10:\"hotel_name\";s:0:\"\";s:12:\"hotel_mobile\";s:0:\"\";s:8:\"zscoupon\";s:1:\"0\";s:6:\"is_del\";s:1:\"0\";s:16:\"shipping_sd_time\";N;s:5:\"qudao\";s:1:\"0\";s:13:\"delivery_name\";N;s:15:\"delivery_mobile\";s:3:\"123\";s:11:\"agentsprice\";s:5:\"14.90\";s:15:\"delivery_cftime\";s:10:\"1517042731\";s:10:\"was_status\";s:1:\"0\";s:8:\"was_time\";N;s:14:\"c_order_status\";s:1:\"0\";s:11:\"lastbuytime\";N;s:5:\"click\";N;}','edit') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `lic_dy_group` [ RunTime:0.0060s ]
+SQL: INSERT INTO `lic_dy_group` (`group_sn`,`r_number`,`dy_id`,`title`,`suppliertotalprice`,`totalprice`,`lirunprice`,`createtime`,`order_status`,`shpping_type`,`shpping_address`,`mobile`,`nickname`,`supplier_id`,`pay_status`,`shippingmoney`,`pay_type`,`ye_money`,`is_money`,`sjorder_amount`,`pay_time`,`order_amount`,`coupon_id`,`couponmoney`,`shipping_time`,`shipping_status`,`shipping_shtime`,`updatetime`,`paysn`,`shippingtime`,`is_orders`,`orderstime`,`supplier_order_amount`,`sendordertime`,`shpping_city_id`,`sendordernumber`,`zdsh`,`shipping_shperiod`,`shipping_location`,`hotel_name`,`hotel_mobile`,`zscoupon`,`is_del`,`shipping_sd_time`,`qudao`,`delivery_name`,`delivery_mobile`,`agentsprice`,`delivery_cftime`,`was_status`,`was_time`,`c_order_status`,`lastbuytime`,`click`) VALUES ('cs1',NULL,'273',NULL,'0.00','3300.00','1490.00','1516862086','1','1','曼谷 其他 123','15730351332','测试','40','1','40.00',NULL,NULL,'0',NULL,'1517039197',NULL,NULL,NULL,'1517039219','3','1517039262','1517039197',NULL,'1516986000','1','1517039206','1631.97','1517039198','1','0','0','18:44','6','','','0','0',NULL,'0',NULL,'123','14.90','1517042731','0',NULL,'0',NULL,NULL) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:34:06+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0110s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('fbb267faaca100af97989c20be319622','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520328617','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:34:07+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0080s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('376705f0ec42beaad569b7e59cb55066','dy_group','032c94972d0ff9d4748b4e9657b9674c','1','4','th',NULL,'1520328617','1','a:55:{s:2:\"id\";s:3:\"969\";s:8:\"group_sn\";s:3:\"cs1\";s:8:\"r_number\";N;s:5:\"dy_id\";s:3:\"273\";s:5:\"title\";N;s:18:\"suppliertotalprice\";s:4:\"0.00\";s:10:\"totalprice\";s:7:\"3300.00\";s:10:\"lirunprice\";s:7:\"1490.00\";s:10:\"createtime\";s:10:\"1516862086\";s:12:\"order_status\";s:1:\"1\";s:12:\"shpping_type\";s:1:\"1\";s:15:\"shpping_address\";s:17:\"曼谷 其他 123\";s:6:\"mobile\";s:11:\"15730351332\";s:8:\"nickname\";s:6:\"测试\";s:11:\"supplier_id\";s:2:\"40\";s:10:\"pay_status\";s:1:\"1\";s:13:\"shippingmoney\";s:5:\"40.00\";s:8:\"pay_type\";N;s:8:\"ye_money\";N;s:8:\"is_money\";s:1:\"0\";s:14:\"sjorder_amount\";N;s:8:\"pay_time\";s:10:\"1517039197\";s:12:\"order_amount\";N;s:9:\"coupon_id\";N;s:11:\"couponmoney\";N;s:13:\"shipping_time\";s:10:\"1517039219\";s:15:\"shipping_status\";s:1:\"3\";s:15:\"shipping_shtime\";s:10:\"1517039262\";s:10:\"updatetime\";s:10:\"1517039197\";s:5:\"paysn\";N;s:12:\"shippingtime\";s:10:\"1516986000\";s:9:\"is_orders\";s:1:\"1\";s:10:\"orderstime\";s:10:\"1517039206\";s:21:\"supplier_order_amount\";s:7:\"1631.97\";s:13:\"sendordertime\";s:10:\"1517039198\";s:15:\"shpping_city_id\";s:1:\"1\";s:15:\"sendordernumber\";s:1:\"0\";s:4:\"zdsh\";s:1:\"0\";s:17:\"shipping_shperiod\";s:5:\"18:44\";s:17:\"shipping_location\";s:1:\"6\";s:10:\"hotel_name\";s:0:\"\";s:12:\"hotel_mobile\";s:0:\"\";s:8:\"zscoupon\";s:1:\"0\";s:6:\"is_del\";s:1:\"0\";s:16:\"shipping_sd_time\";N;s:5:\"qudao\";s:1:\"0\";s:13:\"delivery_name\";N;s:15:\"delivery_mobile\";s:3:\"123\";s:11:\"agentsprice\";s:5:\"14.90\";s:15:\"delivery_cftime\";s:10:\"1517042731\";s:10:\"was_status\";s:1:\"0\";s:8:\"was_time\";N;s:14:\"c_order_status\";s:1:\"0\";s:11:\"lastbuytime\";N;s:5:\"click\";N;}','add') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `lic_dy_group` [ RunTime:0.0060s ]
+SQL: INSERT INTO `lic_dy_group` (`group_sn`,`r_number`,`dy_id`,`title`,`suppliertotalprice`,`totalprice`,`lirunprice`,`createtime`,`order_status`,`shpping_type`,`shpping_address`,`mobile`,`nickname`,`supplier_id`,`pay_status`,`shippingmoney`,`pay_type`,`ye_money`,`is_money`,`sjorder_amount`,`pay_time`,`order_amount`,`coupon_id`,`couponmoney`,`shipping_time`,`shipping_status`,`shipping_shtime`,`updatetime`,`paysn`,`shippingtime`,`is_orders`,`orderstime`,`supplier_order_amount`,`sendordertime`,`shpping_city_id`,`sendordernumber`,`zdsh`,`shipping_shperiod`,`shipping_location`,`hotel_name`,`hotel_mobile`,`zscoupon`,`is_del`,`shipping_sd_time`,`qudao`,`delivery_name`,`delivery_mobile`,`agentsprice`,`delivery_cftime`,`was_status`,`was_time`,`c_order_status`,`lastbuytime`,`click`) VALUES ('cs1',NULL,'273',NULL,'0.00','3300.00','1490.00','1516862086','1','1','曼谷 其他 123','15730351332','测试','40','1','40.00',NULL,NULL,'0',NULL,'1517039197',NULL,NULL,NULL,'1517039219','3','1517039262','1517039197',NULL,'1516986000','1','1517039206','1631.97','1517039198','1','0','0','18:44','6','','','0','0',NULL,'0',NULL,'123','14.90','1517042731','0',NULL,'0',NULL,NULL) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-06T17:35:51+08:00 ] 192.168.1.111 /Admin/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\tp3.2.3\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lic_burnk_task` [ RunTime:0.0010s ]
+SQL: INSERT INTO `lic_burnk_task` (`bguid`,`type_table`,`type_bguid`,`level`,`ac_num`,`ac_type`,`ac_time`,`createtime`,`status`,`data`,`type_operating`) VALUES ('1bb713d1f9aa459649edc13479d1b836','dy_member','8344ebadf2e16c88439535d305e3836d','1','4','th',NULL,'1520328789','1','a:42:{s:2:\"id\";s:3:\"289\";s:8:\"username\";s:11:\"13880664249\";s:8:\"nickname\";N;s:9:\"aliasname\";s:6:\"匿名\";s:8:\"password\";s:32:\"ca8a6cd7a87d5379ca16ef1fcff93e0b\";s:8:\"reg_time\";s:10:\"1520323453\";s:6:\"mobile\";s:11:\"13880664249\";s:5:\"thumb\";s:16:\"./images/def.jpg\";s:5:\"money\";s:4:\"0.00\";s:12:\"pay_password\";N;s:3:\"sex\";s:1:\"0\";s:3:\"age\";N;s:8:\"birthday\";N;s:4:\"desc\";s:43:\"最牛逼的个性签名就是没有签名~\";s:9:\"wxopen_id\";N;s:10:\"wxnickname\";N;s:7:\"zfbname\";N;s:7:\"wxmoney\";s:4:\"0.00\";s:8:\"zfbmoney\";s:4:\"0.00\";s:7:\"xjmoney\";s:4:\"0.00\";s:6:\"status\";s:1:\"1\";s:7:\"deleted\";s:1:\"0\";s:10:\"mobiletype\";s:2:\"86\";s:14:\"groupstarttime\";N;s:10:\"groupyears\";N;s:5:\"dy_sn\";s:9:\"d02763860\";s:7:\"md5code\";s:32:\"c8fcd4191afd4ed27d5026793693e087\";s:7:\"unionid\";N;s:10:\"is_rz_auth\";s:1:\"0\";s:8:\"paycount\";s:1:\"0\";s:11:\"dy_level_id\";s:1:\"1\";s:13:\"dy_level_time\";N;s:10:\"yw_user_id\";s:1:\"2\";s:9:\"yw_i_code\";s:6:\"R1Q15Y\";s:9:\"yw_i_time\";s:10:\"1520323453\";s:7:\"is_test\";s:1:\"0\";s:13:\"is_smallorder\";s:1:\"1\";s:5:\"muuid\";s:16:\"HEE6R15B23003076\";s:3:\"way\";s:1:\"1\";s:7:\"is_open\";s:1:\"1\";s:5:\"qudao\";s:1:\"0\";s:5:\"bguid\";s:32:\"8344ebadf2e16c88439535d305e3836d\";}','edit') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: reor D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: redy D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+NOTIC: [8] Undefined variable: reyk D:\tp3.2.3\Application\Home\Controller\AdminController.class.php 第 85 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
