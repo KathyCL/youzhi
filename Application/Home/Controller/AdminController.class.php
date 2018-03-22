@@ -127,4 +127,18 @@ class AdminController extends CommonController
         phpinfo();
     }
 
+    public function excel()
+    {
+
+        $data=array();
+        $data[]=array('标题1','标题2','标题3','标题4','标题5');
+        $data[]=array(111,222,333,444,555);
+        $data[]=array(999,888,777,666,444);
+        $data[]=array(666,123,456,678,443);
+        $filename='测试表';
+        Eexcel($filename,'测试测试',$data,0,20);
+
+
+    }
+
 }
